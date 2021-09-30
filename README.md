@@ -5,7 +5,7 @@
 
 > 🏆 53 Contributions in the Year 2021
  > 
-> 📦 481.0 kB Used in GitHub's Storage 
+> 📦 481.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,5 +72,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shigure3011/shigure3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
