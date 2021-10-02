@@ -72,5 +72,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/shigure3011/shigure3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2021
+ Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
