@@ -76,8 +76,8 @@ Java                     3 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/shigure3011/shigure3011/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 18:40:22 UTC
+ Last Updated on 10/02/2022 18:42:36 UTC
 <!--END_SECTION:waka-->
