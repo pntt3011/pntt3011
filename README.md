@@ -44,16 +44,16 @@ Sunday       33 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Note                     14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,5 +74,5 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/06/2022 18:52:15 UTC
+ Last Updated on 28/06/2022 18:52:38 UTC
 <!--END_SECTION:waka-->
