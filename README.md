@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,18 +44,16 @@ Sunday       33 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 11 mins             ████████████████████████░   98.58% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+Git                      0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Note                     11 mins             ████████████████████████░   98.58% 
-TextSelectionModulized   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+TextSelectionModulized   0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.0%
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -76,5 +74,5 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 18:49:57 UTC
+ Last Updated on 02/09/2022 18:48:48 UTC
 <!--END_SECTION:waka-->
