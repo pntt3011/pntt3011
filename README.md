@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,16 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C++                      2 mins              █████████████████████████   100.0%
+Markdown                 6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mediapipe_face_iris_cpp  2 mins              █████████████████████████   100.0%
+Note                     6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+Mac                      6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +74,5 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 19:01:00 UTC
+ Last Updated on 05/10/2022 19:03:45 UTC
 <!--END_SECTION:waka-->
