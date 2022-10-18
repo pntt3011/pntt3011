@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -13,7 +13,7 @@
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 27 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -65,11 +65,11 @@ Mac                      0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
-Kotlin                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Kotlin                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51% 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
 
 ```
 
@@ -79,5 +79,5 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 18:53:06 UTC
+ Last Updated on 18/10/2022 19:03:43 UTC
 <!--END_SECTION:waka-->
