@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ JavaScript               5 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pntt3011/pntt3011/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 18:48:56 UTC
+ Last Updated on 03/11/2022 18:53:15 UTC
 <!--END_SECTION:waka-->
